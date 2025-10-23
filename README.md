@@ -90,7 +90,15 @@ The goal was to practice **Active Directory management, Group Policy, user permi
    - Maximum password age = 30 days  
 
 📸 **Screenshot:**  
-`/screenshots/04_gpo_policy.png`
+![Image](https://github.com/user-attachments/assets/0df5ef38-21d0-43cb-baa3-c5d3d5c907e7)
+
+![Image](https://github.com/user-attachments/assets/7e10fba4-cf54-4935-91a7-28faa8050e75)
+
+![Image](https://github.com/user-attachments/assets/f52c39a4-4433-429f-84ae-d5eeb6b1ba19)
+
+![Image](https://github.com/user-attachments/assets/6f91ae5a-295a-4e2a-8b40-8830b2ab5f55)
+
+![Image](https://github.com/user-attachments/assets/423532f7-30d4-4759-94b8-eac812f9f32f)
 
 ---
 
@@ -101,7 +109,9 @@ The goal was to practice **Active Directory management, Group Policy, user permi
 3. Enabled account if locked.
 
 📸 **Screenshot:**  
-`/screenshots/05_password_reset.png`
+![Image](https://github.com/user-attachments/assets/3a5e9e0f-abb9-4a4e-adb3-44281bea95ea)
+
+![Image](https://github.com/user-attachments/assets/cafa4557-9a0c-494d-869f-94bac45c64a9)
 
 ---
 
@@ -112,7 +122,14 @@ The goal was to practice **Active Directory management, Group Policy, user permi
 3. Verified access from Windows 10 client.
 
 📸 **Screenshot:**  
-`/screenshots/06_shared_folder.png`
+![Image](https://github.com/user-attachments/assets/5ac15ca7-e57d-4e0f-945f-710ee54d455b)
+
+
+![Image](https://github.com/user-attachments/assets/95703d93-9a07-4d0f-bd8b-179d1734fdec)
+
+![Image](https://github.com/user-attachments/assets/74bdaf52-901f-493d-9598-c5b025cb96cf)
+
+![Image](https://github.com/user-attachments/assets/f7632b60-66b1-4937-ac10-fee633ce9b9f)
 
 ---
 
