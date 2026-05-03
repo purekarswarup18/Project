@@ -1,4 +1,4 @@
-# 🧑‍💻 IT Support Lab — Active Directory & Windows Server Setup
+# 🧑‍💻 Windows Server Administration  — Active Directory & Windows Server Setup
 
 ## 📘 Overview
 This virtual lab was created to simulate a small corporate IT environment.  
